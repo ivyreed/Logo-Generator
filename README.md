@@ -17,7 +17,7 @@ Download the code from github then open the command terminal in vs code and type
 This application will be used to streamline logo creation.
 
 ### Video
-The video describing how it is working is here! 
+The video describing how it is working is here! https://youtu.be/Xi3qnahjFnM
 
 ### Questions
 You can see my Github profile at https://github.com/ivyreed ,
